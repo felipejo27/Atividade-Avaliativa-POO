@@ -1,4 +1,4 @@
-# Atividade-Avaliativa-POO
+# Atividade-Avaliativa- Conceito de Herança
 
 Conceito de Herança - Acadêmico
 
