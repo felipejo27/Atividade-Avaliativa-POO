@@ -1,15 +1,12 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.IO;
 
-namespace Pessoa2
+namespace AtividadeAvaliativa
 {
     class Funcionario : Pessoa
     {
-        private int cargo ;
+        private int cargo;
         private int numeroMatrica;
         private double salarioBase;
         private double horaExtra;
@@ -17,7 +14,7 @@ namespace Pessoa2
         private string cpf;
         private double salarioliquido;
 
-        
+
         public double SalarioLiquido
         {
             get
@@ -29,7 +26,7 @@ namespace Pessoa2
                 salarioliquido = value;
             }
         }
-        
+
 
         public string Cpf
         {
@@ -43,7 +40,7 @@ namespace Pessoa2
             }
         }
 
-       public int Cargo
+        public int Cargo
         {
             get
             {
@@ -68,7 +65,8 @@ namespace Pessoa2
             }
         }
 
-        public double SalarioBase {
+        public double SalarioBase
+        {
             get
             {
                 return salarioBase;
@@ -80,17 +78,19 @@ namespace Pessoa2
         }
 
 
-        public double HoraExtra {
+        public double HoraExtra
+        {
             get
             {
                 return horaExtra;
             }
             set
             {
-                horaExtra =  value;
+                horaExtra = value;
             }
         }
-        public double SalarioBruto {
+        public double SalarioBruto
+        {
 
             get
             {

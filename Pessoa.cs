@@ -1,10 +1,8 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Pessoa2
+namespace AtividadeAvaliativa
 {
     class Pessoa
     {
@@ -12,8 +10,8 @@ namespace Pessoa2
         private string nome;
         private string endereco;
         private int idade;
-        
-                                                                                                                                                                                                                                                           
+
+
         public int Ano
         {
             get
@@ -52,8 +50,10 @@ namespace Pessoa2
             }
         }
 
-        public int Idade {
-           get {
+        public int Idade
+        {
+            get
+            {
                 return idade;
             }
             set
@@ -69,7 +69,7 @@ namespace Pessoa2
             }
             return true;
         }
-      
-       
+
+
     }
 }

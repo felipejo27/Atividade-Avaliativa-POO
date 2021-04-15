@@ -1,0 +1,13 @@
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\bin\Debug\netcoreapp3.1\AtividadeAvaliativa.exe
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\bin\Debug\netcoreapp3.1\AtividadeAvaliativa.deps.json
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\bin\Debug\netcoreapp3.1\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\bin\Debug\netcoreapp3.1\AtividadeAvaliativa.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\bin\Debug\netcoreapp3.1\AtividadeAvaliativa.dll
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\bin\Debug\netcoreapp3.1\AtividadeAvaliativa.pdb
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.dll
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.pdb
+C:\Users\Felipe\source\repos\AtividadeAvaliativa\obj\Debug\netcoreapp3.1\AtividadeAvaliativa.genruntimeconfig.cache

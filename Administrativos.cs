@@ -1,14 +1,12 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Pessoa2
+namespace AtividadeAvaliativa
 {
     class Administrativos : Funcionario
     {
-        
+
         public Administrativos(int c, int m, string n, string e, double s, string cp, double h)
         {
             Cargo = c;
@@ -55,8 +53,8 @@ namespace Pessoa2
                 return SalarioBruto;
             }
 
-           
+
         }
 
-     }
+    }
 }

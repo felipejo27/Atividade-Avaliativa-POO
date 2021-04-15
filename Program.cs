@@ -1,11 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 using System.IO;
 
-namespace Pessoa2
+namespace AtividadeAvaliativa
 {
     class Program
     {
@@ -19,7 +15,8 @@ namespace Pessoa2
             int contador = 0, opcao;
 
             lerArquivo(ref contador, linha, vetor);
-            do {
+            do
+            {
 
                 Menu();
                 opcao = Convert.ToInt16(Console.ReadLine());
@@ -44,7 +41,7 @@ namespace Pessoa2
                         Console.ReadKey();
                         break;
                 }
-            } while (opcao == 1 || opcao == 2|| opcao == 3 && opcao != 4);
+            } while (opcao == 1 || opcao == 2 || opcao == 3 && opcao != 4);
 
 
 
@@ -204,12 +201,11 @@ namespace Pessoa2
                 catch
                 {
                     Console.Write("");
-                    
+
                 }
 
             }
             Console.ReadKey();
-        } 
         }
     }
-
+}
